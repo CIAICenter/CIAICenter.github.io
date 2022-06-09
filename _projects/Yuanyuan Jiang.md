@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yuanyuan Jiang
+title: Yuanyuan   <br>  Jiang
 description: Research Assistant
 img: /assets/images/Yuanyuan_Jiang.jpg
 importance: 9

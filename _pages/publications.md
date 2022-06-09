@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: <h5>You may also checkout <a href="https://www.andrew.cmu.edu/user/kunz1/Publications.html"><u>publications before 2019</u></a> and our <a href="https://www.andrew.cmu.edu/user/kunz1/Research.html"><u>research overview</u></a>.</h5>
-years: [2022, 2021, 2020, 2019]
+description: <h5>You may also checkout <a href="https://www.andrew.cmu.edu/user/kunz1/Publications.html"><u>publications before 2020</u></a>.</h5>
+years: [2022, 2021, 2020]
 nav: true
 ---
 

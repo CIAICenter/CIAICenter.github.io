@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jiayou Zhang
+title: Jiayou   <br>   Zhang
 description: Research Assistant
 img: /assets/images/Jiayou_Zhang.jpg
 importance: 9

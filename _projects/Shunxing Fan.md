@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shunxing Fan
+title: Shunxing   <br>  Fan
 description: Master's Student
 img: /assets/images/Shunxing_Fan.jpg
 importance: 5

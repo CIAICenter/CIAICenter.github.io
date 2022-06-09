@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Qirong Ho
+title: Qirong   <br>   Ho
 description: Assistant Professor
 img: /assets/images/Qirong_Ho.jpg
 importance: 2

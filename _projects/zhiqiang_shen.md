@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zhiqiang Shen
+title: Zhiqiang   <br>  Shen
 description: Assistant Professor
 img: /assets/images/Zhiqiang_Shen.jpg
 importance: 3

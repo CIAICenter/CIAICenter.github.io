@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eric Xing
+title: Eric   <br>  Xing
 description: MBZUAI President
 img: /assets/images/Eric_Xing.jpg
 importance: 0

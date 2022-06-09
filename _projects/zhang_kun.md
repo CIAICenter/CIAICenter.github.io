@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kun Zhang
+title: Kun   <br>  Zhang
 description: Center Director
 img: /assets/images/Kun_Zhang.jpg
 importance: 1

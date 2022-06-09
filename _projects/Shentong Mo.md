@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shentong Mo
+title: Shentong   <br>  Mo
 description: Research Assistant
 img: /assets/images/Shentong_Mo.jpg
 importance: 9

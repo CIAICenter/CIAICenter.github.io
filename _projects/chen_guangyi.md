@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guangyi Chen
+title: Guangyi   <br>  Chen
 description: Postdoctoral Research Fellow
 img: /assets/images/Guangyi_Chen.png
 importance: 11

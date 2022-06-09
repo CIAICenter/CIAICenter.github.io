@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yuren Liu
+title: Yuren   <br>  Liu
 description: Research Assistant
 img: /assets/images/Yuren_Liu.jpg
 importance: 9

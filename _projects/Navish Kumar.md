@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Navish Kumar
+title: Navish   <br>  Kumar
 description: Research Assistant
 img: /assets/images/Navish_Kumar.png
 importance: 9
