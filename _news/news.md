@@ -5,6 +5,6 @@ inline: true
 ---
 
 
-We build a website of our CIAI group.
+The website of our CIAI group is available.
 <!-- We are excited to release [**causal-learn**](https://causal-learn.readthedocs.io/en/latest/), a Python package for 
 causal discovery! -->
