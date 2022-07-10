@@ -4,6 +4,7 @@ title: Projects
 permalink: /Projects/
 description: <ul> <li>We are actively developing an open toolkit for composable, automatic, and scalable learning.</li> <!-- <li>We will continue to open source the code of our most recent work here.</li> --> </ul>
 nav: true
+nav_order: 3
 display_categories: [Code/Packages]
 horizontal: false
 ---

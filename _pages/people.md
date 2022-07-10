@@ -4,6 +4,7 @@ title: People
 permalink: /people/
 description:
 nav: true
+nav_order: 1
 display_categories: [Faculty, Students, Postdoctoral Research Fellows, Research Assistants, Administration]
 horizontal: false
 ---
