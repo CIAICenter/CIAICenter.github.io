@@ -5,5 +5,5 @@ description: Assistant Professor
 img: /assets/images/Qirong_Ho.png
 importance: 2
 category: Faculty
-redirect: https://mbzuai.ac.ae/study/faculty/dr-qirong-ho
+redirect: https://sites.google.com/site/hoqirong
 ---
