@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Jiayou   <br>   Zhang
-description: Research Assistant
+description: Ph.D. Student
 img: /assets/images/Jiayou_Zhang.jpg
 importance: 9
-category: Research Assistants
+category: Students
 redirect: https://www.github.com/KiaLAN
 ---
